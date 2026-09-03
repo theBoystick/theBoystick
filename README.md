@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <div align="center">
-  <img src="jos.png" alt="banner" />
+  <img src="pic.png" alt="banner" />
 </div>
 
 <h1 align="center">Salut, je suis Josué Kengne 👋</h1>
