@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <div align="left">
   <!-- L'image flotte à droite avec une marge à gauche pour espacer le texte -->
-  <img src="pic.png" alt="pic" align="right" />
+  <img src="pic.png" alt="pic" align="right" width="300" style="border-radius: 15px; margin-left: 20px;" />
   
   <h1>Salut, je suis Josué Kengne 👋</h1>
   <h3>Aspirant Ingénieur Logiciel & Fondateur de RAK's Technology</h3>
