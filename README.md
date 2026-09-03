@@ -2,8 +2,8 @@
 <div align="left">
   <img src="pic.png" alt="pic" align="right" width="300" style="border-radius: 15px; margin-left: 20px;" />
   
-  <h1>Salut, je suis Josué Kengne 👋</h1>
-  <h3>Aspirant Ingénieur Logiciel & Fondateur de RAK's Technology</h3>
+  <h1>Je suis Josué Kengne</h1>
+  <h3>Aspiring Software Engineer | Video Editor & Graphic Designer | UI Designer</h3>
 
   <p>
       <a href="mailto:votre.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
