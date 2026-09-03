@@ -1,7 +1,26 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<div align="center">
-  <img src="pic.png" alt="banner" />
+<div align="left">
+  <!-- L'image flotte à droite avec une marge à gauche pour espacer le texte -->
+  <img src="pic.png" alt="pic" align="right" />
+  
+  <h1>Salut, je suis Josué Kengne 👋</h1>
+  <h3>Aspirant Ingénieur Logiciel & Fondateur de RAK's Technology</h3>
+
+  <p>
+    <!-- Les paramètres center=true et vCenter=true ont été retirés -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Aspirant+Ingénieur+Logiciel;Fondateur+de+RAK's+Technology;UI/UX+Designer+&+Vidéaste;Passionné+par+Linux+&+l'IA" alt="Typing SVG" />
+  </p>
+
+  <p>
+      <a href="mailto:votre.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
 </div>
+
+<!-- Cette balise empêche le texte des sections suivantes de remonter à côté de l'image -->
+<br clear="both"/>
+
+---
 
 <h1 align="center">Salut, je suis Josué Kengne 👋</h1>
 <h3 align="center">Aspirant Ingénieur Logiciel & Fondateur de RAK's Technology</h3>
