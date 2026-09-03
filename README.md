@@ -2,8 +2,7 @@
 <div align="left">
   <img src="pic.png" alt="pic" align="right" width="300" style="border-radius: 15px; margin-left: 20px;" />
   
-  <h1>Je suis Josué Kengne</h1>
-  ---
+  <h1>Je suis Josué KENGNE</h1>
   <h3>Aspiring Software Engineer | Video Editor & Graphic Designer | UI Designer</h3>
 
   <p>
@@ -18,7 +17,7 @@
 ### 🛠️ Langages & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,photoshop,premierepro,flutter,dart,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,flutter,dart,vscod,github" />
 </p>
 
 ---
@@ -31,11 +30,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theBoystick&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=votre-username&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theBoystick&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -64,4 +63,3 @@
   <img src="https://komarev.com/ghpvc/?username=theBoystick&label=Vues%20du%20profil&color=00FF00&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"><i>Merci de votre visite ! N'hésitez pas à explorer mes dépôts et à me contacter.</i></p>
