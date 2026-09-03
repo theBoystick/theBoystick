@@ -3,6 +3,7 @@
   <img src="pic.png" alt="pic" align="right" width="300" style="border-radius: 15px; margin-left: 20px;" />
   
   <h1>Je suis Josué Kengne</h1>
+  ---
   <h3>Aspiring Software Engineer | Video Editor & Graphic Designer | UI Designer</h3>
 
   <p>
