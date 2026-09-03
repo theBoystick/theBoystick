@@ -1,5 +1,6 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <div align="center">
-  <img src="watermarked_img_15232751679428572961.jpg" alt="Josué Kengne Binary Art" width="300" style="border-radius: 15px; margin-bottom: 20px;" />
+  <img src="jos.png" alt="banner" width="300" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">Salut, je suis Josué Kengne 👋</h1>
